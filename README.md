@@ -24,6 +24,8 @@ Andi adalah pemilik supermarket yang ingin membuat sistem kasir self-service di 
    - `check_order()`
 6. Menghitung total belanja:
    - `total_price()`
+7. Reset transaksi belanja :
+   - 'reset_transaction()'
 ## Objective Program
 - Menggunakan Python untuk membuat program kasir otomatis yang memungkinkan pengguna untuk melakukan operasi tambah, update, hapus, reset transaksi, check order, dan melakukan pembayaran.
 - Memberikan pengalaman pengguna yang baik dengan antarmuka yang interaktif dan pemberian informasi yang jelas.
